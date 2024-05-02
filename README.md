@@ -13,3 +13,6 @@ The data has been taken from [**Wikipedia Detox**](https://meta.wikimedia.org/wi
 ## Discussion 
 
 ![Toxic Comments](/Misc/toxic_comments.png)
+
+
+## How to Run
