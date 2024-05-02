@@ -33,3 +33,8 @@ Note that we used PCA just to visualize the data and passed the whole output of 
 ![results](/Misc/tt_results.png)
 
 ## How to Run
+
+To run just simply download the required datasets from the link provided the data section. Set the correct path in the notebook and run this notebook on Colab. :grinning:.
+Specifically here in the notebook you can change the path: 
+> mydata1 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity_annotated_comments.tsv')
+> mydata2 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity_annotations.tsv')
