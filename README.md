@@ -1,4 +1,4 @@
-# ToxicTrek
+# ToxicTrek :atom:
 Detecting Social Media toxicity using Word2vec and Ensemble learning.
 
 ## Core  
@@ -40,3 +40,5 @@ Specifically here in the notebook you can change the path:
 mydata1 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity_annotated_comments.tsv')
 mydata2 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity_annotations.tsv')
 ```
+##### Note
+Paper is also attached for further details. This project is associated with my coursework at Georgia Tech. 
