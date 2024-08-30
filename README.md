@@ -41,4 +41,4 @@ mydata1 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity
 mydata2 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity_annotations.tsv')
 ```
 ##### Note
-Paper is also attached for further details. This project is associated with my coursework at Georgia Tech. 
+Paper is also attached for further details and references. This project is associated with my coursework at Georgia Tech. 
