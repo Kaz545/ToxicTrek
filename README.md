@@ -42,3 +42,4 @@ mydata2 = pd.read_table('/content/drive/MyDrive/Colab Notebooks/Project/toxicity
 ```
 ##### Note
 Paper is also attached for further details and references. This project is associated with my coursework at Georgia Tech. 
+This repo is archived. 
